@@ -11,16 +11,40 @@
     color:khaki;
 }
 
-.container2{
+.flag{
     display: flex;
-    background-color: mediumspringgreen;
     margin-top: 50px;
     justify-content: left;
 }
-.container2 span{
+
+#flag1 {
+    background-color:mediumspringgreen;
+}
+
+.flag span{
     font-family: Helvetica;
     font-size:32px;
     font-weight: bold;
-    color: white;
+    color:white;
 }
 
+img{
+    margin-top: 20px;
+}
+
+.descripciones {
+    font-family: Helvetica;
+    font-size: 25px;
+}
+
+.precios{
+    font-weight: bold;
+    color: blue;
+}
+
+#flag2 {
+    background-color: lightcoral;
+}
+#flag3 {
+    background-color: skyblue;
+}
