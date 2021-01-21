@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    background-image: url(../images/pattern.jpeg);
+    justify-content: center;
+}
+
+.container span {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+}
